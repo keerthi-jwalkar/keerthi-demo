@@ -1,2 +1,3 @@
 # keerthi-demo
-my first git repository
+This is my first git repository. 
+Author-keerthi jwalkar
