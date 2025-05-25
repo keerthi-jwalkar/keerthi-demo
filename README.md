@@ -1,4 +1,4 @@
 # keerthi-demo
 This is my first git repository. 
 <br>
-Author-keerthi jwalkar(hello)
+Author-keerthi jwalkar(hello.)
